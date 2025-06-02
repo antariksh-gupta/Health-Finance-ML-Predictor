@@ -29,17 +29,11 @@ Insurance companies face losses when customers with high-risk health profiles ar
 ## 📁 Project Structure
 
 ├── src/ # Source code (models, utils)
-
 ├── notebooks/ # Jupyter notebooks for development
-
 ├── models/ # Saved ML models
-
 ├── data/ # Raw & cleaned datasets
-
 ├── docs/ # Flowcharts, diagrams, architecture
-
 ├── app/ # Web application (Streamlit or Flask)
-
 └── README.md # Project overview
 
 
