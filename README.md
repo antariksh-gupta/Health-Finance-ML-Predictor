@@ -85,7 +85,7 @@ MIT License – See `LICENSE` file for details.
 
 ## 🌐 Connect with Me
 
-🧑 [Antariksh Gupta](https://www.linkedin.com/in/antariksh-gupta/)  
+🧑 [Antariksh Gupta](https://www.linkedin.com/in/antarikshguptaofficial/)  
 🔗 [GitHub Repository](https://github.com/antariksh-gupta/Health-Finance-ML-Predictor)
 
 ---
