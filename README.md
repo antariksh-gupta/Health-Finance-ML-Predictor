@@ -18,11 +18,11 @@ Insurance companies face losses when customers with high-risk health profiles ar
 
 ## 📦 Features
 
-- Predicts **insurance premium** accurately
-- Detects **high-risk profiles**
-- Estimates **claim approval probability**
-- Clean code, notebooks, and modular folder structure
-- Designed for both **demo** and **real-world product** use
+- **Scalable Data Pipeline:** Built a robust Medallion Architecture (Bronze, Silver, Gold) to process raw insurance records into clean feature tables.
+- **Distributed Processing:** Utilized PySpark & Databricks for handling complex data transformations and minimizing processing latency.
+- **Cloud Storage:** Managed data ingestion and storage using AWS (S3).
+- **Predictive Analytics:** Accurate ML models to predict insurance premiums and detect high-risk profiles.
+- **Interactive UI:** Served processed metrics and predictions via FastAPI and Streamlit.
 
 ---
 
@@ -47,11 +47,10 @@ Insurance companies face losses when customers with high-risk health profiles ar
 
 ## 🧠 Tech Stack
 
-- Python, Pandas, NumPy, Scikit-learn
-- Matplotlib, Seaborn
-- Streamlit or Flask (UI)
-- Jupyter Notebooks
-- Git, GitHub
+- **Data Engineering & Cloud:** Apache Spark (PySpark), AWS (S3), Databricks (Medallion Architecture)
+- **Machine Learning:** Scikit-learn, Pandas, NumPy
+- **Serving & UI:** FastAPI, Streamlit, Power BI
+- **Version Control & Docs:** Git, GitHub, Jupyter Notebooks
 
 ---
 
